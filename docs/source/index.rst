@@ -14,10 +14,10 @@ Contents
 --------
 
 
-   Installation\n
-   Opening plcIntegrator\n
-   Usage\n
-      Project tab\n
-      Device tab\n
-      Alarm tab\n
+   Installation::
+   Opening plcIntegrator::
+   Usage
+      Project tab
+      Device tab
+      Alarm tab
       PV list
