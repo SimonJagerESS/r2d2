@@ -13,9 +13,10 @@ how to :ref:`installation` the project.
 Contents
 --------
 
+.. toctree::
 
-   Installation::
-   Opening plcIntegrator::
+   Installation
+   Opening plcIntegrator
       Usage
       Project tab
       Device tab
