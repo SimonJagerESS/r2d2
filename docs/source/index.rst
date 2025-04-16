@@ -14,7 +14,7 @@ Contents
 --------
 
 
-   .. Installation::
+   Installation
    Opening plcIntegrator::
       Usage
       Project tab
