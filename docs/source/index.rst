@@ -17,8 +17,8 @@ Contents
 
    Installation
    Opening plcIntegrator
-      Usage
-      Project tab
-      Device tab
-      Alarm tab
-      PV list
+   Usage
+   Project tab
+   Device tab
+   Alarm tab
+   PV list
