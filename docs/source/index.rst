@@ -14,6 +14,10 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   Installation
+   Opening plcIntegrator
+   Usage
+      Project tab
+      Device tab
+      Alarm tab
+      PV list
