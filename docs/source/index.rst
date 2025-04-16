@@ -14,9 +14,9 @@ Contents
 --------
 
 
-   Installation::
+   .. Installation::
    Opening plcIntegrator::
-   Usage
+      Usage
       Project tab
       Device tab
       Alarm tab
