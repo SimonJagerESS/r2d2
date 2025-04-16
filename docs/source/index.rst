@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
+
    Installation
    Opening plcIntegrator
    Usage
