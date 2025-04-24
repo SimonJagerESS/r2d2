@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'r2d2'
+project = 'r2d2_test_edit_1'
 copyright = '2025, ESS ICS Automation'
 author = 'Simon Jäger'
 
