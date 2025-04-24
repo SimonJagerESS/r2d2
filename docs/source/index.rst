@@ -12,6 +12,10 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+* Testing
+* This
+* Thing
+*Is this italics?*
 
 .. toctree::
 
